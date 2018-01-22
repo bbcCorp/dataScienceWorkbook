@@ -148,7 +148,7 @@ Poland,POL,PL,Poland
 Portugal,POR,PT,Portugal
 Puerto Rico*,PUR,PR,Puerto Rico*
 Qatar,QAT,QA,Qatar
-Romania,ROM,RO,Romania
+Romania,ROU,RO,Romania
 Russia,RUS,RU,Russia
 Rwanda,RWA,RW,Rwanda
 Saint Kitts and Nevis,SKN,KN,Saint Kitts and Nevis
@@ -159,7 +159,7 @@ San Marino,SMR,SM,San Marino
 Sao Tome and Principe,STP,ST,Sao Tome and Principe
 Saudi Arabia,KSA,SA,Saudi Arabia
 Senegal,SEN,SN,Senegal
-Serbia,SCG,RS,Serbia
+Serbia,SRB,RS,Serbia
 Seychelles,SEY,SC,Seychelles
 Sierra Leone,SLE,SL,Sierra Leone
 Singapore,SIN,SG,Singapore
@@ -200,3 +200,18 @@ Virgin Islands*,ISV,VI,Virgin Islands*
 Yemen,YEM,YE,Yemen
 Zambia,ZAM,ZM,Zambia
 Zimbabwe,ZIM,ZW,Zimbabwe
+Netherlands Antilles   ,AHO,,
+Australasia   ,ANZ,,
+Bohemia ,BOH,,
+British West Indies ,BWI,,
+Germany United Team of Germany,EUA,,
+International Olympic Committee Unified Team ,EUN,,
+West Germany,FRG,,
+East Germany,GDR,,
+Russian Empire   ,RU1,,
+Serbia and Montenegro,SCG,,
+Czechoslovakia,TCH,,
+Soviet Union,URS,,
+Yugoslavia,YUG,,
+International Olympic Committee Mixed teams  ,ZZX,,
+Independent Olympic Participants,IOP,,
